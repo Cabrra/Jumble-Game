@@ -1,0 +1,29 @@
+
+20684 Total items stored in 2677 buckets
+
+4 Buckets are empty
+
+each bucket contains between 0 and 21 items.
+
+4 buckets have 0 items
+36 buckets have 1 items
+78 buckets have 2 items
+151 buckets have 3 items
+205 buckets have 4 items
+286 buckets have 5 items
+319 buckets have 6 items
+277 buckets have 7 items
+308 buckets have 8 items
+286 buckets have 9 items
+195 buckets have 10 items
+145 buckets have 11 items
+118 buckets have 12 items
+94 buckets have 13 items
+65 buckets have 14 items
+43 buckets have 15 items
+24 buckets have 16 items
+18 buckets have 17 items
+14 buckets have 18 items
+5 buckets have 19 items
+3 buckets have 20 items
+3 buckets have 21 items
