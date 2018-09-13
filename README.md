@@ -1,7 +1,7 @@
 Jumble Game
 ===========
 
-![Gumble main Screenshot](https://github.com/Cabrra/cabrra.github.io/blob/master/Images/Gumble-1.jpg)
+![Gumble main Screenshot](https://github.com/Cabrra/cabrra.github.io/raw/master/Images/Gumble-1.jpg)
 
 This fun project is a 6 letter word jumble game. The player is presented with 6 letters and the objective is to think of as many words as possible that are made up of those 6 letters in a given amount of time. 
 
@@ -12,7 +12,7 @@ This fun project is a 6 letter word jumble game. The player is presented with 6 
 
 ## Gameplay
 
-The game starts each round finding a random 6 letter word in the hash table, storing and scrambling the letters that form the word, and displaying them to the screen. The player will have 60 seconds to make as many words as possible using those 6 letters. Each letter position can be used only once. If the player’s guesses are real words (in the dictionary) and made up of the letters in the scramble, the word will be stored and points will be awarded for a correct guess (The score for a word is the factorial of its length-1).
+The game starts each round finding a random 6 letter word in the hash table, storing and scrambling the letters that form the word, and displaying them to the screen. The player will have 60 seconds to make as many words as possible using those 6 letters. Each letter position can be used only once. If the playerâ€™s guesses are real words (in the dictionary) and made up of the letters in the scramble, the word will be stored and points will be awarded for a correct guess (The score for a word is the factorial of its length-1).
 
 Game-Flow:
 + The dictionary is loaded at launch and the legal words for the game are stored in a hash table (custom hash function)  
@@ -20,10 +20,10 @@ Game-Flow:
     As a requirement, no more than 5% of the buckets are empty (check le output log)  
     Items are distributed as evenly among the buckets  
 + Not storing words shorter than 3 letters or longer than 6 letters (because those don't give points to the player)
-+ Not storing words with an apostrophe (‘) in it
++ Not storing words with an apostrophe (â€˜) in it
 + Remaining time in the round is displayed on screen (real time countdown)
 + Current score displayed to the screen
-+ Player’s correct guesses are stored in a Binary Search Tree and displayed to the screen
++ Playerâ€™s correct guesses are stored in a Binary Search Tree and displayed to the screen
 + The solution is displayed on the screen, if the player does not guess the word by the end of the round
 + Top 5 high scores stored in a binary file  
     The high score table is displayed at the end of a game  
