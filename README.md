@@ -1,9 +1,11 @@
 Jumble Game
 ===========
 
-![Gumble main Screenshot](https://raw.githubusercontent.com/Cabrra/cabrra.github.io/master/Images/Gumble-1.jpg?token=AI_RbUvR6k793fvlqr97SqRn-VzmMEVNks5bo5zkwA%3D%3D)
+![Gumble main Screenshot](/Images/Gumble-1.jpg)
 
 This fun project is a 6 letter word jumble game. The player is presented with 6 letters and the objective is to think of as many words as possible that are made up of those 6 letters in a given amount of time. 
+
+![Gumble main Screenshot](/Images/Gumble-2.jpg)
 
 ## Controls and files
 
